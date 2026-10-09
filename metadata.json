@@ -1,0 +1,6 @@
+{
+  "name": "ZURIKA",
+  "description": "Trouvez. Appelez. Dépannez. Partez. Application de géolocalisation et dépannage automobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

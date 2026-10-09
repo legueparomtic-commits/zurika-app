@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZURIKA</string>
+    <string name="profile_title">My Profile &amp; Room Cache</string>
+    <string name="language_selection">App Language</string>
+    <string name="french">French</string>
+    <string name="english">English</string>
+    <string name="interventions">Assistance</string>
+    <string name="searches">Searches</string>
+    <string name="favorites">Favorites</string>
+    <string name="logout">Log Out</string>
+    <string name="delete_account">Delete Account</string>
+</resources>

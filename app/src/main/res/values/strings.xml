@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZURIKA</string>
+    <string name="profile_title">Mon Profil &amp; Cache Room</string>
+    <string name="language_selection">Langue de l\'application</string>
+    <string name="french">Français</string>
+    <string name="english">Anglais</string>
+    <string name="interventions">Assistance</string>
+    <string name="searches">Recherches</string>
+    <string name="favorites">Favoris</string>
+    <string name="logout">Déconnexion</string>
+    <string name="delete_account">Supprimer le compte</string>
+</resources>
